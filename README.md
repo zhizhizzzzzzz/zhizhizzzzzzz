@@ -34,17 +34,23 @@
 ---
 
 ### 📂 一些搓过的项目
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 20px 0;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 16px; margin: 20px 0;">
   <a href="https://github.com/zhizhizzzzzzz/OceanSphere" style="text-decoration: none; color: inherit;">
-    <div style="background: #f8f9fa; border-radius: 10px; padding: 20px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); transition: transform 0.3s ease, box-shadow 0.3s ease;">
-      <h3 style="color: #D8B4FE; margin-top: 0;">OceanSphere</h3>
-      <p style="margin: 10px 0;">基于UDP数据流实现的实时VR摄影摄像相关程序，含基础的运动控制按钮，Java实现</p>
+    <div style="background: linear-gradient(135deg, #f3e8ff 0%, #e9d5ff 100%); border-radius: 12px; padding: 20px; box-shadow: 0 4px 15px rgba(168, 85, 247, 0.15); transition: all 0.3s ease; border: 1px solid #d8b4fe;">
+      <h3 style="color: #7c3aed; margin: 0 0 10px 0; font-size: 18px;">🌊 OceanSphere</h3>
+      <p style="color: #6b7280; margin: 0; font-size: 14px;">基于UDP数据流实现的实时VR摄影摄像相关程序，含基础的运动控制按钮，Java实现</p>
+      <div style="margin-top: 12px;">
+        <span style="background: #ddd6fe; color: #7c3aed; padding: 4px 8px; border-radius: 6px; font-size: 12px;">Java</span>
+      </div>
     </div>
   </a>
   <a href="https://github.com/zhizhizzzzzzz/2025_NUEDC_C_VISION" style="text-decoration: none; color: inherit;">
-    <div style="background: #f8f9fa; border-radius: 10px; padding: 20px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); transition: transform 0.3s ease, box-shadow 0.3s ease;">
-      <h3 style="color: #D8B4FE; margin-top: 0;">2025_NUEDC_C_VISION</h3>
-      <p style="margin: 10px 0;">电赛相关的视觉算法代码，Python实现</p>
+    <div style="background: linear-gradient(135deg, #f3e8ff 0%, #e9d5ff 100%); border-radius: 12px; padding: 20px; box-shadow: 0 4px 15px rgba(168, 85, 247, 0.15); transition: all 0.3s ease; border: 1px solid #d8b4fe;">
+      <h3 style="color: #7c3aed; margin: 0 0 10px 0; font-size: 18px;">👁️ 2025_NUEDC_C_VISION</h3>
+      <p style="color: #6b7280; margin: 0; font-size: 14px;">电赛相关的视觉算法代码，Python实现</p>
+      <div style="margin-top: 12px;">
+        <span style="background: #ddd6fe; color: #7c3aed; padding: 4px 8px; border-radius: 6px; font-size: 12px;">Python</span>
+      </div>
     </div>
   </a>
 </div>
@@ -53,17 +59,23 @@
 
 ### 📑 课设作业存档
 实现得比较粗糙，仅供参考，希望能帮到有需要的学弟学妹。
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 20px 0;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 16px; margin: 20px 0;">
   <a href="https://github.com/zhizhizzzzzzz/FJUT-HIS-homework" style="text-decoration: none; color: inherit;">
-    <div style="background: #f8f9fa; border-radius: 10px; padding: 20px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); transition: transform 0.3s ease, box-shadow 0.3s ease;">
-      <h3 style="color: #D8B4FE; margin-top: 0;">FJUT-HIS-homework</h3>
-      <p style="margin: 10px 0;">医院信息管理系统课设，C++实现</p>
+    <div style="background: linear-gradient(135deg, #f3e8ff 0%, #e9d5ff 100%); border-radius: 12px; padding: 20px; box-shadow: 0 4px 15px rgba(168, 85, 247, 0.15); transition: all 0.3s ease; border: 1px solid #d8b4fe;">
+      <h3 style="color: #7c3aed; margin: 0 0 10px 0; font-size: 18px;">🏥 FJUT-HIS-homework</h3>
+      <p style="color: #6b7280; margin: 0; font-size: 14px;">医院信息管理系统课设，C++实现</p>
+      <div style="margin-top: 12px;">
+        <span style="background: #ddd6fe; color: #7c3aed; padding: 4px 8px; border-radius: 6px; font-size: 12px;">C++</span>
+      </div>
     </div>
   </a>
   <a href="https://github.com/zhizhizzzzzzz/OnlineMarket" style="text-decoration: none; color: inherit;">
-    <div style="background: #f8f9fa; border-radius: 10px; padding: 20px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); transition: transform 0.3s ease, box-shadow 0.3s ease;">
-      <h3 style="color: #D8B4FE; margin-top: 0;">OnlineMarket</h3>
-      <p style="margin: 10px 0;">在线商城课设，Vue实现</p>
+    <div style="background: linear-gradient(135deg, #f3e8ff 0%, #e9d5ff 100%); border-radius: 12px; padding: 20px; box-shadow: 0 4px 15px rgba(168, 85, 247, 0.15); transition: all 0.3s ease; border: 1px solid #d8b4fe;">
+      <h3 style="color: #7c3aed; margin: 0 0 10px 0; font-size: 18px;">🛒 OnlineMarket</h3>
+      <p style="color: #6b7280; margin: 0; font-size: 14px;">在线商城课设，Vue实现</p>
+      <div style="margin-top: 12px;">
+        <span style="background: #ddd6fe; color: #7c3aed; padding: 4px 8px; border-radius: 6px; font-size: 12px;">Vue</span>
+      </div>
     </div>
   </a>
 </div>
