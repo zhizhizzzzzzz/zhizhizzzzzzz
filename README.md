@@ -86,10 +86,14 @@
 
 ### 🐾 哈哈哈
 <div align="center">
-  <img src="https://raw.githubusercontent.com/zhizhizzzzzzz/zhizhizzzzzzz/output/github-contribution-grid-snake.svg" style="width: 98%;" />
+  <img src="https://readme-jokes.vercel.app/api?background-color=transparent&text-color=D8B4FE&border-color=D8B4FE" alt="Jokes Card" style="border-radius: 10px; margin: 20px 0;" />
+</div>
+
+<div align="center">
+  <p>🐱 🐶 🐰 🦊 🐼 🐨 🐯 🦁 🐸 🐵</p>
 </div>
 
 <div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=zhizhizzzzzzz.zhizhizzzzzzz&left_color=F5F3FF&right_color=D8B4FE&left_text=%E8%AE%BF%E9%97%8C%E6%AC%A1%E6%95%B0" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=zhizhizzzzzzz.zhizhizzzzzzz&left_color=F5F3FF&right_color=D8B4FE&left_text=%E8%AE%BF%E9%97%AE%E6%AC%A1%E6%95%B0" />
 </div>
 
