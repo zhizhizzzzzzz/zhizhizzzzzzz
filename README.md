@@ -32,14 +32,13 @@
 ---
 
 ### 📂 一些搓过的项目
-大多是自己慢慢磨出来的内容，部分仓库仅有幸参与过一点点开发，非主要贡献者。
-- **[OceanSphere](https://github.com/zhizhizzzzzzz/OceanSphere)**：基于UDP数据流实现的实时VR摄影摄像相关程序，加了基础的运动控制按钮，Java实现
+- **[OceanSphere](https://github.com/zhizhizzzzzzz/OceanSphere)**：基于UDP数据流实现的实时VR摄影摄像相关程序，含基础的运动控制按钮，Java实现
 - **[2025_NUEDC_C_VISION](https://github.com/zhizhizzzzzzz/2025_NUEDC_C_VISION)**：电赛相关的视觉算法代码，Python实现
 
 ---
 
 ### 📑 课设作业存档
-都是上学期间写的课设作业，实现得比较粗糙，仅供参考，希望能帮到有需要的学弟学妹。
+实现得比较粗糙，仅供参考，希望能帮到有需要的学弟学妹。
 - **[FJUT-HIS-homework](https://github.com/zhizhizzzzzzz/FJUT-HIS-homework)**：医院信息管理系统课设，C++实现
 - **[OnlineMarket](https://github.com/zhizhizzzzzzz/OnlineMarket)**：在线商城课设，Vue实现
 
@@ -59,7 +58,7 @@
 
 ---
 
-### 🐾 软乎乎小彩蛋
+### 🐾 哈哈哈
 <div align="center">
   <img src="https://raw.githubusercontent.com/zhizhizzzzzzz/zhizhizzzzzzz/output/github-contribution-grid-snake.svg" style="width: 98%;" />
 </div>
@@ -67,3 +66,4 @@
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=zhizhizzzzzzz.zhizhizzzzzzz&left_color=F5F3FF&right_color=D8B4FE&left_text=%E8%AE%BF%E9%97%8C%E6%AC%A1%E6%95%B0" />
 </div>
+
